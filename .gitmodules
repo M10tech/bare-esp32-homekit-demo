@@ -1,0 +1,3 @@
+[submodule "components/esp32-homekit"]
+	path = components/esp32-homekit
+	url = https://M10tech@github.com/M10tech/esp32-homekit
